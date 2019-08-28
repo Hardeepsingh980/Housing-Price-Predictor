@@ -10,49 +10,57 @@ Now You can use Model_usage.py file to predict the price in Dollars($) of the ho
 
 The Outputs I got From Using Different Models on The Same Data :-
 
--->  Model Used :- LinearRegression
+1. 
+
+	Model Used :- LinearRegression
 
 	Mean: 5.057284756294412
 
 	Standard Deviation: 1.033541177118166 
 
+2.
 
--->  Model Used :- DecisionTreeRegressor
+	Model Used :- DecisionTreeRegressor
 
 	Mean: 4.612070280128845
 
 	Standard Deviation: 1.3159754054455628 
 
+3.
 
--->  Model Used :- RandomForestRegressor
+	Model Used :- RandomForestRegressor
 
 	Mean: 3.6059654978067237
 
 	Standard Deviation: 1.0097245063023408 
 
+4.
 
--->  Model Used :- Ridge
+	Model Used :- Ridge
 
 	Mean: 5.054315161372322
 
 	Standard Deviation: 1.039322247483624 
 
+5.
 
--->  Model Used :- RidgeCV
+	Model Used :- RidgeCV
 
 	Mean: 5.035925789578547
 
 	Standard Deviation: 1.085382992419537 
 
+6.
 
--->  Model Used :- Lasso
+	Model Used :- Lasso
 
 	Mean: 5.409101751828857
 
 	Standard Deviation: 1.3605785740655751 
 
+7.
 
--->  Model Used :- BasyesianRidge
+	Model Used :- BasyesianRidge
 
 	Mean: 5.042783866909807
 
