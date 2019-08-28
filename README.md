@@ -6,6 +6,8 @@ Run the Model_trainer.py file to first create a Model.
 
 Now You can use Model_usage.py file to predict the price in Dollars($) of the house on the behalf of given data.
 
+To Check The Features Included In Data Refer To features.txt File. All the features has been described
+
 (The Prediction made were based on the data collected in Boston a decade before. So, the predictions may not make sense today. It is for demonstration purpose only.)
 
 # Output 
